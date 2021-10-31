@@ -1,4 +1,3 @@
-
 fun main() {
     println("Hello Kotlin")
     var x: Int = 3  //declare variable
